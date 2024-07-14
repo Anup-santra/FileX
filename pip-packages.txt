@@ -2,7 +2,6 @@ future
 requests
 mechanize
 bs4
-requests lolcat bs4
 php
 httpx
 beautifulsoup4
